@@ -1,2 +1,4 @@
 *:Zone.Identifier
 *.temp.*
+.venv
+.venv/*
